@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rishikesh1445
-- 👀 I’m interested in App Development, Machine Leaning, Computer Vision
+- 👀 I’m interested in App Development, Machine Leaning, Computer Vision, SysAd
 - 🌱 I’m currently learning Kotlin.
 
 <!---
